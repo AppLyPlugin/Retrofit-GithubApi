@@ -1,4 +1,4 @@
-package com.devtides.githubrepos
+package com.applyplugin.githubrepos
 
 import org.junit.Test
 
